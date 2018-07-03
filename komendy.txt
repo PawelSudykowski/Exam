@@ -1,2 +1,2 @@
 autoprefixer-cli -o main.prefixed.css main.css
-cli [options] <files/urls ...>  /!-- How exactly do not I know. --/
+cli [options] <files/urls ...>  /!-- How exactly, do not I know. --/
